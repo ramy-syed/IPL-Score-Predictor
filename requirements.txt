@@ -2,3 +2,8 @@ flask
 numpy
 pickle-mixin
 gunicorn
+sklearn
+pprint
+seaborn
+matplotlib
+datetime
